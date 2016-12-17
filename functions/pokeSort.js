@@ -39,4 +39,4 @@ let pokeArray = [{
   weight: 60.2
 }]
 
-console.log(pokeSort(pokeArray, 'name'));
+console.log(pokeSort(pokeArray, 'weight'));
